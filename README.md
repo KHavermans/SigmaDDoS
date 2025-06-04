@@ -1,10 +1,12 @@
-# Installatiehandleiding
-Deze toepassing werd getest op Python 3.9 (64-bit). Andere versies worden mogelijk niet correct ondersteund.
+# Installation Guide
 
-## Vereisten installeren
-Zorg ervoor dat je Python 3.9 (64-bit) correct hebt geïnstalleerd. Installeer vervolgens de vereiste Python-pakketten via pip:
+This application has been tested on **Python 3.9 (64-bit)**. Other versions may not be fully supported.
+
+## Installing Requirements
+
+Make sure you have Python 3.9 (64-bit) properly installed. Then, install the required Python packages using pip:
 
 ```bash
 pip install PyQt5 psutil aiohttp websockets matplotlib pyinstaller
 ```
-Deze pakketten zijn noodzakelijk voor een correcte werking van de software.
+These packages are necessary for the application to function correctly.
